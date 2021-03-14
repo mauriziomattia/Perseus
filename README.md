@@ -1,7 +1,7 @@
 # Perseus
 Event-driven simulator of spiking neuron networks
 
-Version: 2.1.3i by Maurizio Mattia
+Version: 2.1.3i (June 24th, 2013) by Maurizio Mattia
 
 Citation:
 Mattia M, Del Giudice P. 2000. 
